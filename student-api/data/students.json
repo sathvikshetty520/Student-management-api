@@ -1,0 +1,11 @@
+[
+  {
+    "id": "6de120c2-6588-41ce-baac-e2028db04820",
+    "name": "Alice",
+    "email": "alice@uni.edu",
+    "course": "Computer Science",
+    "year": 3,
+    "createdAt": "2026-03-17T04:43:47.058Z",
+    "updatedAt": "2026-03-17T04:49:06.950Z"
+  }
+]

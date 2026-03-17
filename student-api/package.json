@@ -1,0 +1,13 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "College Student Management REST API using Node.js built-in http module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["nodejs", "rest-api", "student-management"],
+  "author": "",
+  "license": "ISC"
+}
